@@ -1,0 +1,4 @@
+IaaS - Infraestrutura como serviço
+Saas - Software como serviço
+PaaS - Plataforma como serviço
+FaaS - Função como serviço
