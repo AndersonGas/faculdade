@@ -114,6 +114,7 @@ int main() {
   } else {
     printf("Carta 2 venceu!");
   }
+<<<<<<< HEAD
 
   if (area > area2) {
     printf("Carta 1 venceu!");
@@ -150,6 +151,44 @@ int main() {
   } else {
     printf("Carta 2 venceu!");
   }
+=======
+>>>>>>> b43791f3a0c0ffc8e4f03ab63593246bc3a57552
 
+  if (area > area2) {
+    printf("Carta 1 venceu!");
+  } else {
+    printf("Carta 2 venceu!");
+  }
+  
+  if (PIB > PIB2) {
+    printf("Carta 1 Venceu!");
+  } else { 
+    printf("Carta 2 venceu!");
+  }
+  
+  if (pontos > pontos2) {
+    printf("Carta 1 venceu!");
+  } else {
+    printf("Carta 2 venceu!");
+  }
+  
+  if (densidade < densidade2) {
+    printf("Carta 1 venceu!");
+  } else {
+    printf("Carta 2 venceu!");
+  }
+  
+  if (PIBperCapita > PIBperCapita2) {
+    printf("Carta 1 venceu!");
+  } else {
+    printf("Carta 2 venceu!");
+  }
+  
+  if (superPoder > superPoder2) {
+    printf("Carta 1 venceu!");
+  } else {
+    printf("Carta 2 venceu!");
+  }
+  
 return 0;
 } 
